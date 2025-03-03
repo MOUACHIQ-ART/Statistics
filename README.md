@@ -18,7 +18,7 @@ Ce projet regroupe deux études en statistiques appliquées :
 
   - Implémentation : Création d'une interface permettant de jouer contre une IA optimisée.
 
-Tests statistiques : Vérification de l'aléatoire des choix humains.
+  - Tests statistiques : Vérification de l'aléatoire des choix humains.
 
 Étude 2 : Tests d'hypothèses statistiques
 
