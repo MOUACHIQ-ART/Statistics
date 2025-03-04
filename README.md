@@ -1,4 +1,4 @@
-# Analyse Statistique et Modélisation
+# Analyse Statistique et Modélisation d'IHM
 
 ## Description
 
